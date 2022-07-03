@@ -12,7 +12,5 @@ Install the .py file and run it
 
 Please do not use this tool for malicious purpose, it is only to be used for OSINT
 
-## contributing 
 
-If any developers want to help me, please email me
 
