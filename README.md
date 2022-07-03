@@ -6,7 +6,7 @@ DaiOSINT collect a dossier on a person by username only, checking for accounts o
 Please enter CMD and type "pip install python3" or go to the Microsoft store and download python
 - Please ignore these steps if you have python installed
 
-Install the .py file and run it
+Install the .py file and run it (https://www.dropbox.com/home?preview=DaiOSINT.py)
 
 ## Usage
 
